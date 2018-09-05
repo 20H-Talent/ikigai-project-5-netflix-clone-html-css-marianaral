@@ -1,0 +1,24 @@
+.main-nav {
+    display: flex;
+    flex-direction: row;
+    a {
+    @extend %links;
+    margin-top: 26px;
+    }
+    .home {
+        font-weight: bold;
+        margin-left: 45px;
+    }
+    .tv-show {
+        margin-left: 20px;
+    }
+    .movies {
+        margin-left: 16px;
+    }
+    .recently-added {
+        margin-left: 18px;
+    }
+    .my-list {
+        margin-left: 15px;
+    }
+}

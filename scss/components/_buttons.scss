@@ -1,0 +1,23 @@
+.the-innocents-buttons { 
+    button{
+        height: 40px;
+        background-color:$color-buttons;
+        border: none;
+        border-radius: 2px;
+        margin-top: 25px;
+    }
+    img {
+        margin-right: 11.5px;
+    }
+}
+
+.play-btn {
+    margin-left: 58px;
+    width: 129px;
+}
+
+.my-list-btn {
+    margin-left: 8px;
+    width: 154px;
+    font-weight: 500;
+}

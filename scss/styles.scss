@@ -1,0 +1,12 @@
+@import "./utilities/_index.scss";
+@import "./base/_index.scss";
+@import "./components/_index.scss";
+
+html {
+    background: transparent url(../images/00-home.jpg) no-repeat top left;
+    background-size: 100%;
+
+    body {
+        opacity: 0.7;
+    }
+}
