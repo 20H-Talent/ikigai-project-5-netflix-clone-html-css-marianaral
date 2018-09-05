@@ -11,6 +11,24 @@
     margin-left: 58px;
 }
 
-.c-w {
+.titles-cw {
     margin-top: 63px;
+    margin-bottom: 12px;
+}
+
+.titles{
+    margin-bottom: 13px;
+    margin-top: 44.31px;
+    &.tn {
+    margin-top: 40px;
+    }
+}
+
+.first-bar {
+    margin-left: 102px;
+}
+
+.progressing-bars {
+    display: flex;
+    flex-direction: column;
 }
